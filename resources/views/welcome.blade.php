@@ -23,9 +23,10 @@
 
             <h1 class="text-4xl font-bold text-blue-600">
 
-                Sistema Académico
+                Sistema Académico del Instituto IESTPH
 
             </h1>
+        <P> Programa de Estudio APSTI</P>
 
             <p class="mt-4 text-gray-600">
 
