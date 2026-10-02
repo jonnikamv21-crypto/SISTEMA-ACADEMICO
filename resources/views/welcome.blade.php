@@ -27,6 +27,7 @@
 
             </h1>
         <P> Programa de Estudio APSTI</P>
+         <P> jnnika meza vargas </P>
 
             <p class="mt-4 text-gray-600">
 
